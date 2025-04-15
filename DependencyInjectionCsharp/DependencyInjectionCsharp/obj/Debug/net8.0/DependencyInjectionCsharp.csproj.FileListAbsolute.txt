@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\bin\Debug\net8.0\DependencyInjectionCsharp.exe
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\bin\Debug\net8.0\DependencyInjectionCsharp.deps.json
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\bin\Debug\net8.0\DependencyInjectionCsharp.runtimeconfig.json
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\bin\Debug\net8.0\DependencyInjectionCsharp.dll
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\bin\Debug\net8.0\DependencyInjectionCsharp.pdb
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\DependencyInjectionCsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\DependencyInjectionCsharp.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\DependencyInjectionCsharp.AssemblyInfo.cs
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\DependencyInjectionCsharp.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\DependencyInjectionCsharp.dll
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\refint\DependencyInjectionCsharp.dll
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\DependencyInjectionCsharp.pdb
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\DependencyInjectionCsharp.genruntimeconfig.cache
+C:\Users\acer\Desktop\C#\DependencyInjectionCsharp\DependencyInjectionCsharp\obj\Debug\net8.0\ref\DependencyInjectionCsharp.dll

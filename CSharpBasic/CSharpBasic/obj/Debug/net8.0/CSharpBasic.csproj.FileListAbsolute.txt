@@ -1,0 +1,14 @@
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\CSharpBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\CSharpBasic.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\CSharpBasic.AssemblyInfo.cs
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\CSharpBasic.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\bin\Debug\net8.0\CSharpBasic.exe
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\bin\Debug\net8.0\CSharpBasic.deps.json
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\bin\Debug\net8.0\CSharpBasic.runtimeconfig.json
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\bin\Debug\net8.0\CSharpBasic.dll
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\bin\Debug\net8.0\CSharpBasic.pdb
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\CSharpBasic.dll
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\refint\CSharpBasic.dll
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\CSharpBasic.pdb
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\CSharpBasic.genruntimeconfig.cache
+C:\Users\acer\Desktop\C#\CSharpBasic\CSharpBasic\obj\Debug\net8.0\ref\CSharpBasic.dll
