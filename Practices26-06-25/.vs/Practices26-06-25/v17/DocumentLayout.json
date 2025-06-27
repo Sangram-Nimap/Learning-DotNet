@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\C#\\Practices26-06-25\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B127779F-7505-4B3D-97B4-92C0FC19615F}|Practices26-06-25\\Practices26-06-25.csproj|c:\\users\\acer\\desktop\\c#\\practices26-06-25\\practices26-06-25\\stringandstringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B127779F-7505-4B3D-97B4-92C0FC19615F}|Practices26-06-25\\Practices26-06-25.csproj|solutionrelative:practices26-06-25\\stringandstringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B127779F-7505-4B3D-97B4-92C0FC19615F}|Practices26-06-25\\Practices26-06-25.csproj|c:\\users\\acer\\desktop\\c#\\practices26-06-25\\practices26-06-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B127779F-7505-4B3D-97B4-92C0FC19615F}|Practices26-06-25\\Practices26-06-25.csproj|solutionrelative:practices26-06-25\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringAndStringBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Practices26-06-25\\Practices26-06-25\\StringAndStringBuilder.cs",
+              "RelativeDocumentMoniker": "Practices26-06-25\\StringAndStringBuilder.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Practices26-06-25\\Practices26-06-25\\StringAndStringBuilder.cs",
+              "RelativeToolTip": "Practices26-06-25\\StringAndStringBuilder.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:40:30.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Practices26-06-25\\Practices26-06-25\\Program.cs",
+              "RelativeDocumentMoniker": "Practices26-06-25\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Practices26-06-25\\Practices26-06-25\\Program.cs",
+              "RelativeToolTip": "Practices26-06-25\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T05:36:57.452Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="programingTutorialDb" Class="ProgramingClassDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=DESKTOP-A2VIQU6\SQLEXPRESS;Initial Catalog=programingTutorialDb;Integrated Security=True;Server Certificate=&quot;True &quot;;Trust Server Certificate=True" SettingsObjectName="CRUDTutorialUsingLINQ.Properties.Settings" SettingsPropertyName="programingTutorialDbConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.productDb" Member="productDbs">
+    <Type Name="productDb">
+      <Column Name="ProductID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="IteamName" Type="System.String" DbType="VarChar(155)" CanBeNull="true" />
+      <Column Name="Design" Type="System.String" DbType="VarChar(123)" CanBeNull="true" />
+      <Column Name="Color" Type="System.String" DbType="VarChar(123)" CanBeNull="true" />
+      <Column Name="InsertDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="updateDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="ExpiryDate" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

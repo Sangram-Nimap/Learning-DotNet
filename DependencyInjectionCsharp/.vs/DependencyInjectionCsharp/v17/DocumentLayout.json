@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|solutionrelative:dependencyinjectioncsharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|c:\\users\\acer\\desktop\\c#\\dependencyinjectioncsharp\\dependencyinjectioncsharp\\loosecouplingconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|solutionrelative:dependencyinjectioncsharp\\loosecouplingconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|c:\\users\\acer\\desktop\\c#\\dependencyinjectioncsharp\\dependencyinjectioncsharp\\loosecouplingthroughmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|solutionrelative:dependencyinjectioncsharp\\loosecouplingthroughmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|c:\\users\\acer\\desktop\\c#\\dependencyinjectioncsharp\\dependencyinjectioncsharp\\tightcouplingex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|solutionrelative:dependencyinjectioncsharp\\tightcouplingex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|c:\\users\\acer\\desktop\\c#\\dependencyinjectioncsharp\\dependencyinjectioncsharp\\loosecouplingconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF81FB14-6982-46FC-B93B-318B45ADE3C0}|DependencyInjectionCsharp\\DependencyInjectionCsharp.csproj|solutionrelative:dependencyinjectioncsharp\\loosecouplingconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,31 +26,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "LooseCouplingConstructor.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\DependencyInjectionCsharp\\DependencyInjectionCsharp\\LooseCouplingConstructor.cs",
               "RelativeDocumentMoniker": "DependencyInjectionCsharp\\LooseCouplingConstructor.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\DependencyInjectionCsharp\\DependencyInjectionCsharp\\LooseCouplingConstructor.cs",
               "RelativeToolTip": "DependencyInjectionCsharp\\LooseCouplingConstructor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAIwF8AAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:40:28.287Z"
+              "WhenOpened": "2025-04-14T04:40:28.287Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "TightCouplingEx.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\DependencyInjectionCsharp\\DependencyInjectionCsharp\\TightCouplingEx.cs",
               "RelativeDocumentMoniker": "DependencyInjectionCsharp\\TightCouplingEx.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\DependencyInjectionCsharp\\DependencyInjectionCsharp\\TightCouplingEx.cs",
               "RelativeToolTip": "DependencyInjectionCsharp\\TightCouplingEx.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBwAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T04:28:08.063Z"
+              "WhenOpened": "2025-04-14T04:28:08.063Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -60,22 +66,33 @@
               "RelativeDocumentMoniker": "DependencyInjectionCsharp\\Program.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\DependencyInjectionCsharp\\DependencyInjectionCsharp\\Program.cs",
               "RelativeToolTip": "DependencyInjectionCsharp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAIA0wBUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-12T07:04:40.43Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "LooseCouplingThroughMethods.cs",
               "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\DependencyInjectionCsharp\\DependencyInjectionCsharp\\LooseCouplingThroughMethods.cs",
               "RelativeDocumentMoniker": "DependencyInjectionCsharp\\LooseCouplingThroughMethods.cs",
               "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\DependencyInjectionCsharp\\DependencyInjectionCsharp\\LooseCouplingThroughMethods.cs",
               "RelativeToolTip": "DependencyInjectionCsharp\\LooseCouplingThroughMethods.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAAgwB4AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T09:36:42.967Z"
+              "WhenOpened": "2025-04-14T09:36:42.967Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

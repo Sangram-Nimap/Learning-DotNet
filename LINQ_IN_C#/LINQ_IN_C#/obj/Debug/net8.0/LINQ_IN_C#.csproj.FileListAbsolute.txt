@@ -1,0 +1,15 @@
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\LINQ_IN_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\LINQ_IN_C#.AssemblyInfoInputs.cache
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\LINQ_IN_C#.AssemblyInfo.cs
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\LINQ_IN_C#.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\LINQ_IN_C#.sourcelink.json
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\bin\Debug\net8.0\LINQ_IN_C#.exe
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\bin\Debug\net8.0\LINQ_IN_C#.deps.json
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\bin\Debug\net8.0\LINQ_IN_C#.runtimeconfig.json
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\bin\Debug\net8.0\LINQ_IN_C#.dll
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\bin\Debug\net8.0\LINQ_IN_C#.pdb
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\LINQ_IN_C#.dll
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\refint\LINQ_IN_C#.dll
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\LINQ_IN_C#.pdb
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\LINQ_IN_C#.genruntimeconfig.cache
+C:\Users\acer\Desktop\C#\LINQ_IN_C#\LINQ_IN_C#\obj\Debug\net8.0\ref\LINQ_IN_C#.dll

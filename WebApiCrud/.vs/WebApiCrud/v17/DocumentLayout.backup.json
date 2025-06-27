@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|c:\\users\\acer\\desktop\\c#\\webapicrud\\webapicrud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B044D32C-96CF-4B26-8DC7-9296F375FEF1}|WebApiCrud\\WebApiCrud.csproj|solutionrelative:webapicrud\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "WebApiCrud\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:03:37.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "WebApiCrud\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAArwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:54:10.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "WebApiCrud\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:53:32.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\DTOs\\OrderDto.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\DTOs\\OrderDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\DTOs\\OrderDto.cs",
+              "RelativeToolTip": "WebApiCrud\\DTOs\\OrderDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:07:40.941Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Model\\Product.cs",
+              "RelativeToolTip": "WebApiCrud\\Model\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:09:53.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "WebApiCrud\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:54:01.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\DTOs\\CategoryDto.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "WebApiCrud\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:07:39.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApiCrud\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:11:12.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Model\\User.cs",
+              "RelativeDocumentMoniker": "WebApiCrud\\Model\\User.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\WebApiCrud\\WebApiCrud\\Model\\User.cs",
+              "RelativeToolTip": "WebApiCrud\\Model\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T10:18:27.975Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|c:\\users\\acer\\desktop\\c#\\samplewebapicrud\\samplewebapicrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|solutionrelative:samplewebapicrud\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|c:\\users\\acer\\desktop\\c#\\samplewebapicrud\\samplewebapicrud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|solutionrelative:samplewebapicrud\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|c:\\users\\acer\\desktop\\c#\\samplewebapicrud\\samplewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|solutionrelative:samplewebapicrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|c:\\users\\acer\\desktop\\c#\\samplewebapicrud\\samplewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|solutionrelative:samplewebapicrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|c:\\users\\acer\\desktop\\c#\\samplewebapicrud\\samplewebapicrud\\samplewebapicrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|solutionrelative:samplewebapicrud\\samplewebapicrud.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|c:\\users\\acer\\desktop\\c#\\samplewebapicrud\\samplewebapicrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|solutionrelative:samplewebapicrud\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|c:\\users\\acer\\desktop\\c#\\samplewebapicrud\\samplewebapicrud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F03396E8-AE6B-46A4-BA82-F80A6F5C17F5}|SampleWebApiCRUD\\SampleWebApiCRUD.csproj|solutionrelative:samplewebapicrud\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "SampleWebApiCRUD\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "SampleWebApiCRUD\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T07:23:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "SampleWebApiCRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\appsettings.json",
+              "RelativeToolTip": "SampleWebApiCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-16T10:33:32.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SampleWebApiCRUD.http",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\SampleWebApiCRUD.http",
+              "RelativeDocumentMoniker": "SampleWebApiCRUD\\SampleWebApiCRUD.http",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\SampleWebApiCRUD.http",
+              "RelativeToolTip": "SampleWebApiCRUD\\SampleWebApiCRUD.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-16T10:51:18.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "SampleWebApiCRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\Program.cs",
+              "RelativeToolTip": "SampleWebApiCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:51:07.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "SampleWebApiCRUD\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\Model\\Student.cs*",
+              "RelativeToolTip": "SampleWebApiCRUD\\Model\\Student.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:37:28.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SampleWebApiCRUD\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SampleWebApiCRUD\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:34:19.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SampleWebApiCRUD\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\SampleWebApiCRUD\\SampleWebApiCRUD\\WeatherForecast.cs",
+              "RelativeToolTip": "SampleWebApiCRUD\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T10:33:21.575Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
