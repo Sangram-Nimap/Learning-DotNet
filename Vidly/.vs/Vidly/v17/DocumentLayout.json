@@ -1,0 +1,187 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\controllers\\productmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\productmastercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\controllers\\categorycontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\productlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|c:\\users\\acer\\desktop\\c#\\vidly\\vidly\\data\\appdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{014A9C71-2C6A-4ED5-B248-EBCA14DB81CA}|Vidly\\Vidly.csproj|solutionrelative:vidly\\data\\appdbconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductList.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Models\\ProductList.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\ProductList.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Models\\ProductList.cs",
+              "RelativeToolTip": "Vidly\\Models\\ProductList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:05:55.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Vidly\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:03:51.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryController1.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Controllers\\CategoryController1.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\CategoryController1.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Controllers\\CategoryController1.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\CategoryController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:01:33.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T11:01:06.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:04:39.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductMasterController.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Controllers\\ProductMasterController.cs",
+              "RelativeDocumentMoniker": "Vidly\\Controllers\\ProductMasterController.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Controllers\\ProductMasterController.cs",
+              "RelativeToolTip": "Vidly\\Controllers\\ProductMasterController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:05:08.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Models\\TodoContext.cs",
+              "RelativeToolTip": "Vidly\\Models\\TodoContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:06:13.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Vidly\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Vidly\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:06:29.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbConnection.cs",
+              "DocumentMoniker": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Data\\AppDbConnection.cs",
+              "RelativeDocumentMoniker": "Vidly\\Data\\AppDbConnection.cs",
+              "ToolTip": "C:\\Users\\acer\\Desktop\\C#\\Vidly\\Vidly\\Data\\AppDbConnection.cs",
+              "RelativeToolTip": "Vidly\\Data\\AppDbConnection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T13:10:40.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
